@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "coreJava\\Day3_05_March_1"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
